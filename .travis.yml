@@ -4,4 +4,4 @@ python:
 instarll:
  - pip install pytest
 script:
- - py.test test.py
+ - test.py
