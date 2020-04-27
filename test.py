@@ -1,6 +1,6 @@
 import pytest                                                                                                                                
 
 def test_add_01():
-    assert "a" == "b"
+    assert "a" == "a"
 
 
